@@ -1,0 +1,19 @@
+# Rodusta
+
+Nähtävästi suljin Twitter-tilini liian aikaisin.
+
+<blockquote class="twitter-tweet"><p lang="fi" dir="ltr">Lähes kolmannes suomalaisista on sitä mieltä, että on olemassa ihmisrotuja. Tiede sanoo kuitenkin ihan muuta.<br><br>Homo Sapiens on geneettisesti hyvin yhtenäinen laji. &quot;Ihmisrotu&quot; on ainoastaan äärioikeiston viljelemä rasistinen ja valheellinen käsite. <a href="https://t.co/eHgtJZtrc0">https://t.co/eHgtJZtrc0</a></p>&mdash; Jami Haavisto (@jamihaavisto) <a href="https://twitter.com/jamihaavisto/status/1218498665385545729?ref_src=twsrc%5Etfw">January 18, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+Tähän on pakko kommentoida. Käsitys ihmisrodusta siinä muodossa kuin se nykyään 
+esitetään luotiin aikoinaan oikeuttamaan kolonialismi. Niinpä "rotuja" on oikeastaan
+vain kaksi: "valkoiset" ja "ei-valkoiset". Kaikki muu on pseudotieteellistä sepitettä,
+jolla pyritään oikeuttamaan "valkoisten" ylivalta "ei-valkoisiin" eli kolonialisoijien
+valta kolonialisoituihin.
+
+Jos tarkemmin pohtii, mitä rotu tarkoittaa (esimerkiksi muissa eläinlajeissa),
+on selvää, että ei ole olemassa rotua ilman rodunjalostusta. Esimerkiksi 
+koirarodut ovat syntyneet, kun tiettyjä lajiyksilöiden ominaisuuksia on
+pyritty korostamaan valikoivalla lisääntymisellä eli rodunjalostuksella.
+
+Puhe "ihmisroduista" on siten parhaimmillaan [kolonialismia](https://tieteentermipankki.fi/wiki/Historia:kolonialismi),
+pahimmillaan [eugeniikkaa](https://tieteentermipankki.fi/wiki/El%C3%A4intiede:eugeniikka).
